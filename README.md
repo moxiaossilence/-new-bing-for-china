@@ -1,5 +1,5 @@
 # -new-bing-
-中国大陆免翻墙使用new bing 的办法
+中国大陆免翻墙使用new bing 的办法 \n
 首先你需要拥有一个拥有new bing资格的账号，但申请资格同样需要下面的方法，所以照做就行了
 使用microsoft edge浏览器打开后面的网址 https://microsoftedge.microsoft.com/addons/detail/header-editor/afopnekiinpekooejpchnkgfffaeceko，安装Header Editor插件
 然后打开 https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd ，安装Tampermonkey插件
