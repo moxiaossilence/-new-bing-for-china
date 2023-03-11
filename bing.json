@@ -1,0 +1,21 @@
+{
+	"request": [],
+	"sendHeader": [
+		{
+			"enable": true,
+			"name": "Bing",
+			"ruleType": "modifySendHeader",
+			"matchType": "regexp",
+			"pattern": "",
+			"exclude": "",
+			"group": "未分组",
+			"isFunction": false,
+			"action": {
+				"name": "x-forwarded-for",
+				"value": "8.8.8.8"
+			}
+		}
+	],
+	"receiveHeader": [],
+	"receiveBody": []
+}
